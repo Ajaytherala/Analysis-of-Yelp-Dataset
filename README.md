@@ -29,6 +29,8 @@ The foundation of this project is the Yelp Dataset, a comprehensive collection o
 3. check-in
 4. review
 5. user
+
+   
 These files collectively contain approximately 9.3 GB of data, providing a rich resource for exploring various aspects of:
 
 1. Customer feedback
